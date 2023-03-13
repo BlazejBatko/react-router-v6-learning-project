@@ -1,3 +1,13 @@
+### 👋👋 You can switch between 4 branches I made during making this project to make this project less overwhelming 👋👋
+**Topics covered in coresponding branch part**
+1. `Route params`, `Routes`, `Link`, `Outlet`
+2. `Nested Routes`, `Relative and Absolute Paths`, `NavLinks`, `Outlet Context`
+3. `Search Params`, `Filtering with Params`, `Link state`, `Error Handling`
+4. `History stack`, `Layer API `, `Loaders`, `Actions`, `Forms`, `defer`, `Await`
+
+## [COMPLETE PROJECT DEMO](https://stunning-pudding-f4d4c8.netlify.app/vans) 
+> for accessing Host path use login: b@b.com password: p123
+
 # My React Router v6 Learning Notes
 
 ## Outlet (Nested Routes)
