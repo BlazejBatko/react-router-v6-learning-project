@@ -5,7 +5,7 @@
 3. `Search Params`, `Filtering with Params`, `Link state`, `Error Handling`
 4. `History stack`, `Layer API `, `Loaders`, `Actions`, `Forms`, `defer`, `Await`
 
-## [COMPLETE PROJECT DEMO](https://stunning-pudding-f4d4c8.netlify.app/vans) 
+## [COMPLETE PROJECT DEMO](https://van-life-rrv6.netlify.app) 
 > for accessing Host path use login: b@b.com password: p123
 
 # My React Router v6 Learning Notes
